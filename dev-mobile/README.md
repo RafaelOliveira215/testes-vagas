@@ -17,10 +17,9 @@ Você deverá desenvolver uma aplicação para visualizar uma lista de filmes, s
 
 ### Requisitos técnicos
 
-O app deverá ser desenvolvido para a plataforma **Android ou iOS**
+O app deverá ser desenvolvido para as plataformas **Android e iOS**
 
-- Caso opte por **Android** deverá utilizar **Java ou Kotlin**.
-- Caso opte por **iOS** deverá utilizar **Swift ou Objective - C**.
+- Utilize **React nantive** com  **EXPO CLI**.
 - Utilizar o **git** para **versionamento do código**.
 - **Consulta REST** do themoviedb para obtenção dos dados.
 - **Persistência** dos dados (Persistir favoritos).
@@ -39,6 +38,7 @@ O app deverá ser desenvolvido para a plataforma **Android ou iOS**
 - Usabilidade
 - Criatividade no layout
 - Teste unitários *(OPCIONAL)*
+- Gerar um APK de preview funcional através do EXPO, por conta do peso do apk, adicione o link do drive no read-me *(OPCIONAL)*
 
 ### Processo de submissão
 - O link do repositóro deve ser enviado para os e-mails: 
