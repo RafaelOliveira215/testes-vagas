@@ -37,6 +37,7 @@ O app deverá ser desenvolvido para as plataformas **Android e iOS**
 - Arquitetura utilizada
 - Usabilidade
 - Criatividade no layout
+- styled components *(OPCIONAL)*
 - Teste unitários *(OPCIONAL)*
 - Gerar um APK de preview funcional através do EXPO, por conta do peso do apk, adicione o link do drive no read-me *(OPCIONAL)*
 
